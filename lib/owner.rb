@@ -48,6 +48,7 @@ class Owner
   end
   
   def feed_cats
+    binding.pry 
     self.dogs.each { |cat| }
   end
 end
