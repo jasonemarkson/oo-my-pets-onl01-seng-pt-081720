@@ -49,7 +49,7 @@ class Owner
   
   def feed_cats
     binding.pry 
-    self.dogs.each { |cat| }
+    self.cats.each { |cat| }
   end
 end
 
