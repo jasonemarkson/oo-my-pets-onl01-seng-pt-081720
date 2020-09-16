@@ -52,7 +52,7 @@ class Owner
   end
   
   def sell_pets
-    
+    binding.pry 
   end
 end
 
