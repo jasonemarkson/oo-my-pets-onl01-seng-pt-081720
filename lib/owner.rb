@@ -56,7 +56,9 @@ class Owner
     self.dogs.each { |dog| dog.owner = nil } && self.cats.each { |cat| cat.owner = nil }
   end
   
-  
+  def list_pets
+    
+  end
 end
 
 
